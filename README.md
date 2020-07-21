@@ -1,4 +1,4 @@
-# Single LinkedList in python
+# Singly LinkedList in python
 
 Practicing Various Singly Linked List problems
 
